@@ -2,7 +2,7 @@
 ## Adullam Skill Acquisition Program – Survey Analysis
 
 📊 **Project Overview**
-! [images](images/dashboard.png)
+![images](images/dashboard.png)
 
 This project analyzes survey responses collected from participants interested in the Adullam Skill Acquisition Program. The goal is to understand the demographics, educational background, motivations, and engagement level of applicants in order to support better planning, communication, and program delivery.
 
